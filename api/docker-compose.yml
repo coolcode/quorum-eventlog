@@ -1,4 +1,4 @@
-version: "1"
+version: "3"
 services:
     quorum_eventlog_api:
         image: yopoo/quorum-eventlog-api:latest
