@@ -1,0 +1,7 @@
+version: "1"
+services:
+    quorum_eventlog_api:
+        image: yopoo/quorum-eventlog-api:latest
+        ports:
+            - 5000:5000
+        entrypoint: flask run --host 0.0.0.0
