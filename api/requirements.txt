@@ -1,3 +1,4 @@
 Flask==0.12.1
 Flask-API==1.0
+Flask-Cors==3.0.7
 web3==4.9.2
